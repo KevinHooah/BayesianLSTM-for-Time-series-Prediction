@@ -1,4 +1,4 @@
-# Bayesian-LSTM-for-Time-series-Prediction
+# BayesianLSTM-for-Time-series-Prediction
 This repository is showing how to leverage Bayesian deep learning (in this case, LSTM) to do the one next-step time-series prediction with quantifying epistemic uncertainty and aleatoric uncertainty simultaneously.
 
 The data used here is modified from the sunspot dataset: https://www.kaggle.com/robervalt/sunspots/data#
